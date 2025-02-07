@@ -1,2 +1,2 @@
-# sql_project
-Portfolio project about data cleaning using SQL.
+# Data Cleaning with SQL.
+This is a portfolio project about cleaning a public dataset about layoffs around the world using SQL.
